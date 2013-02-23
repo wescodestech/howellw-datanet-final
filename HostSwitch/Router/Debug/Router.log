@@ -1,0 +1,76 @@
+﻿Build started 12/2/2012 10:15:22 PM.
+     1>Project "C:\Users\Wesley Howell\Downloads\HowellProject32\HowellProject3\HostSwitch\Router\Router.vcxproj" on node 2 (rebuild target(s)).
+     1>_PrepareForClean:
+         Deleting file "Debug\Router.lastbuildstate".
+       InitializeBuildStatus:
+         Creating "Debug\Router.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\Router.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\Router.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Router.cpp
+         Router.cpp
+     1>c:\users\wesley howell\downloads\howellproject32\howellproject3\hostswitch\router\header.h(12): warning C4091: 'typedef ' : ignored on left of 'header_t' when no variable is declared
+     1>c:\users\wesley howell\downloads\howellproject32\howellproject3\hostswitch\router\router.cpp(136): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdlib.h(867) : see declaration of 'itoa'
+     1>c:\users\wesley howell\downloads\howellproject32\howellproject3\hostswitch\router\router.cpp(138): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\wesley howell\downloads\howellproject32\howellproject3\hostswitch\router\router.cpp(140): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdlib.h(867) : see declaration of 'itoa'
+     1>c:\users\wesley howell\downloads\howellproject32\howellproject3\hostswitch\router\router.cpp(151): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\wesley howell\downloads\howellproject32\howellproject3\hostswitch\router\router.cpp(211): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\wesley howell\downloads\howellproject32\howellproject3\hostswitch\router\router.cpp(231): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\wesley howell\downloads\howellproject32\howellproject3\hostswitch\router\router.cpp(254): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\wesley howell\downloads\howellproject32\howellproject3\hostswitch\router\router.cpp(285): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\wesley howell\downloads\howellproject32\howellproject3\hostswitch\router\router.cpp(291): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\wesley howell\downloads\howellproject32\howellproject3\hostswitch\router\router.cpp(303): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdlib.h(867) : see declaration of 'itoa'
+     1>c:\users\wesley howell\downloads\howellproject32\howellproject3\hostswitch\router\router.cpp(305): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\wesley howell\downloads\howellproject32\howellproject3\hostswitch\router\router.cpp(307): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdlib.h(867) : see declaration of 'itoa'
+     1>c:\users\wesley howell\downloads\howellproject32\howellproject3\hostswitch\router\router.cpp(314): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\wesley howell\downloads\howellproject32\howellproject3\hostswitch\router\router.cpp(114): warning C4101: 'max_packet_size' : unreferenced local variable
+     1>c:\users\wesley howell\downloads\howellproject32\howellproject3\hostswitch\router\router.cpp(115): warning C4101: 'IPAddress' : unreferenced local variable
+     1>c:\users\wesley howell\downloads\howellproject32\howellproject3\hostswitch\router\router.cpp(147): warning C4101: 'n_addr' : unreferenced local variable
+     1>c:\users\wesley howell\downloads\howellproject32\howellproject3\hostswitch\router\router.cpp(116): warning C4101: 'MyAddr' : unreferenced local variable
+     1>c:\users\wesley howell\downloads\howellproject32\howellproject3\hostswitch\router\router.cpp(113): warning C4101: 'packet_size' : unreferenced local variable
+     1>c:\users\wesley howell\downloads\howellproject32\howellproject3\hostswitch\router\router.cpp(422): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdlib.h(867) : see declaration of 'itoa'
+     1>c:\users\wesley howell\downloads\howellproject32\howellproject3\hostswitch\router\router.cpp(609): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\wesley howell\downloads\howellproject32\howellproject3\hostswitch\router\router.cpp(615): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\wesley howell\downloads\howellproject32\howellproject3\hostswitch\router\router.cpp(708): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(188) : see declaration of 'strncpy'
+     1>c:\users\wesley howell\downloads\howellproject32\howellproject3\hostswitch\router\router.cpp(710): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(188) : see declaration of 'strncpy'
+     1>c:\users\wesley howell\downloads\howellproject32\howellproject3\hostswitch\router\router.cpp(722): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(188) : see declaration of 'strncpy'
+     1>c:\users\wesley howell\downloads\howellproject32\howellproject3\hostswitch\router\router.cpp(725): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(188) : see declaration of 'strncpy'
+     1>c:\users\wesley howell\downloads\howellproject32\howellproject3\hostswitch\router\router.cpp(731): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\wesley howell\downloads\howellproject32\howellproject3\hostswitch\router\router.cpp(363): warning C4101: 'i' : unreferenced local variable
+     1>c:\users\wesley howell\downloads\howellproject32\howellproject3\hostswitch\router\router.cpp(339): warning C4101: 'fwd_addr' : unreferenced local variable
+     1>c:\users\wesley howell\downloads\howellproject32\howellproject3\hostswitch\router\router.cpp(370): warning C4101: 'message' : unreferenced local variable
+     1>c:\users\wesley howell\downloads\howellproject32\howellproject3\hostswitch\router\router.cpp(369): warning C4101: 'header' : unreferenced local variable
+     1>c:\users\wesley howell\downloads\howellproject32\howellproject3\hostswitch\router\router.cpp(522): warning C4101: 'addr' : unreferenced local variable
+     1>c:\users\wesley howell\downloads\howellproject32\howellproject3\hostswitch\router\router.cpp(712): warning C4101: 'MACAddrChange' : unreferenced local variable
+       ManifestResourceCompile:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\Router.exe.embed.manifest.res" Debug\Router_manifest.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Wesley Howell\Downloads\HowellProject32\HowellProject3\HostSwitch\Debug\Router.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Router.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Wesley Howell\Downloads\HowellProject32\HowellProject3\HostSwitch\Debug\Router.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Wesley Howell\Downloads\HowellProject32\HowellProject3\HostSwitch\Debug\Router.lib" /MACHINE:X86 Debug\Router.exe.embed.manifest.res
+         Debug\Router.obj
+         Debug\stdafx.obj
+       Manifest:
+         Deleting file "Debug\Router.exe.embed.manifest".
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\Router.exe.embed.manifest" /manifest Debug\Router.exe.intermediate.manifest
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\Router.exe.embed.manifest.res" Debug\Router_manifest.rc 
+       LinkEmbedManifest:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Wesley Howell\Downloads\HowellProject32\HowellProject3\HostSwitch\Debug\Router.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Router.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Wesley Howell\Downloads\HowellProject32\HowellProject3\HostSwitch\Debug\Router.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Wesley Howell\Downloads\HowellProject32\HowellProject3\HostSwitch\Debug\Router.lib" /MACHINE:X86 Debug\Router.exe.embed.manifest.res
+         Debug\Router.obj
+         Debug\stdafx.obj
+         Router.vcxproj -> C:\Users\Wesley Howell\Downloads\HowellProject32\HowellProject3\HostSwitch\Debug\Router.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\Router.unsuccessfulbuild".
+         Touching "Debug\Router.lastbuildstate".
+     1>Done Building Project "C:\Users\Wesley Howell\Downloads\HowellProject32\HowellProject3\HostSwitch\Router\Router.vcxproj" (rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.54
