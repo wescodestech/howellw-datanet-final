@@ -1,0 +1,8 @@
+This project only runs on a Windows machine…
+
+To execute this program. open a command line window for each instance of the routers. After that, you can open a window for each switch and host to execute. 
+
+Open the commands.txt file and it contains the initialization for each router, switch, and host.
+
+To send a data packet, enter the following command
+ipaddr size 10
