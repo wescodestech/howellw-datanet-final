@@ -1,0 +1,68 @@
+﻿Build started 12/2/2012 10:15:22 PM.
+     1>Project "C:\Users\Wesley Howell\Downloads\HowellProject32\HowellProject3\HostSwitch\Switch\Switch.vcxproj" on node 3 (rebuild target(s)).
+     1>_PrepareForClean:
+         Deleting file "Debug\Switch.lastbuildstate".
+       InitializeBuildStatus:
+         Creating "Debug\Switch.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\Switch.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\Switch.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Switch.cpp
+         Switch.cpp
+     1>c:\users\wesley howell\downloads\howellproject32\howellproject3\hostswitch\switch\switch.cpp(260): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\wesley howell\downloads\howellproject32\howellproject3\hostswitch\switch\switch.cpp(263): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\wesley howell\downloads\howellproject32\howellproject3\hostswitch\switch\switch.cpp(366): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\wesley howell\downloads\howellproject32\howellproject3\hostswitch\switch\switch.cpp(368): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\wesley howell\downloads\howellproject32\howellproject3\hostswitch\switch\switch.cpp(370): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\wesley howell\downloads\howellproject32\howellproject3\hostswitch\switch\switch.cpp(376): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\wesley howell\downloads\howellproject32\howellproject3\hostswitch\switch\switch.cpp(385): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\users\wesley howell\downloads\howellproject32\howellproject3\hostswitch\switch\switch.cpp(416): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>c:\users\wesley howell\downloads\howellproject32\howellproject3\hostswitch\switch\switch.cpp(453): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(188) : see declaration of 'strncpy'
+     1>c:\users\wesley howell\downloads\howellproject32\howellproject3\hostswitch\switch\switch.cpp(455): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(188) : see declaration of 'strncpy'
+     1>c:\users\wesley howell\downloads\howellproject32\howellproject3\hostswitch\switch\switch.cpp(465): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\wesley howell\downloads\howellproject32\howellproject3\hostswitch\switch\switch.cpp(469): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\wesley howell\downloads\howellproject32\howellproject3\hostswitch\switch\switch.cpp(506): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(188) : see declaration of 'strncpy'
+     1>c:\users\wesley howell\downloads\howellproject32\howellproject3\hostswitch\switch\switch.cpp(510): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(188) : see declaration of 'strncpy'
+     1>c:\users\wesley howell\downloads\howellproject32\howellproject3\hostswitch\switch\switch.cpp(546): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\wesley howell\downloads\howellproject32\howellproject3\hostswitch\switch\switch.cpp(553): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(188) : see declaration of 'strncpy'
+     1>c:\users\wesley howell\downloads\howellproject32\howellproject3\hostswitch\switch\switch.cpp(122): warning C4101: 'i' : unreferenced local variable
+     1>c:\users\wesley howell\downloads\howellproject32\howellproject3\hostswitch\switch\switch.cpp(97): warning C4101: 'fwd_addr' : unreferenced local variable
+     1>c:\users\wesley howell\downloads\howellproject32\howellproject3\hostswitch\switch\switch.cpp(128): warning C4101: 'message' : unreferenced local variable
+     1>c:\users\wesley howell\downloads\howellproject32\howellproject3\hostswitch\switch\switch.cpp(127): warning C4101: 'header' : unreferenced local variable
+     1>c:\users\wesley howell\downloads\howellproject32\howellproject3\hostswitch\switch\switch.cpp(229): warning C4101: 'addr' : unreferenced local variable
+     1>c:\users\wesley howell\downloads\howellproject32\howellproject3\hostswitch\switch\switch.cpp(555): warning C4101: 'IPAddrSRC' : unreferenced local variable
+       ManifestResourceCompile:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\Switch.exe.embed.manifest.res" Debug\Switch_manifest.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Wesley Howell\Downloads\HowellProject32\HowellProject3\HostSwitch\Debug\Switch.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Switch.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Wesley Howell\Downloads\HowellProject32\HowellProject3\HostSwitch\Debug\Switch.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Wesley Howell\Downloads\HowellProject32\HowellProject3\HostSwitch\Debug\Switch.lib" /MACHINE:X86 Debug\Switch.exe.embed.manifest.res
+         Debug\stdafx.obj
+         Debug\Switch.obj
+       Manifest:
+         Deleting file "Debug\Switch.exe.embed.manifest".
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\Switch.exe.embed.manifest" /manifest Debug\Switch.exe.intermediate.manifest
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\Switch.exe.embed.manifest.res" Debug\Switch_manifest.rc 
+       LinkEmbedManifest:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Wesley Howell\Downloads\HowellProject32\HowellProject3\HostSwitch\Debug\Switch.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Switch.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Wesley Howell\Downloads\HowellProject32\HowellProject3\HostSwitch\Debug\Switch.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Wesley Howell\Downloads\HowellProject32\HowellProject3\HostSwitch\Debug\Switch.lib" /MACHINE:X86 Debug\Switch.exe.embed.manifest.res
+         Debug\stdafx.obj
+         Debug\Switch.obj
+         Switch.vcxproj -> C:\Users\Wesley Howell\Downloads\HowellProject32\HowellProject3\HostSwitch\Debug\Switch.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\Switch.unsuccessfulbuild".
+         Touching "Debug\Switch.lastbuildstate".
+     1>Done Building Project "C:\Users\Wesley Howell\Downloads\HowellProject32\HowellProject3\HostSwitch\Switch\Switch.vcxproj" (rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.30
