@@ -1,0 +1,9 @@
+*.vcxproj
+*.pdb
+*.idb
+*.tlog
+*.opensdf
+*.sdf
+*.suo
+*.obj
+*.ilk
